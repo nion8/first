@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-    <a class="navbar-brand" href="#">Navbar</a>
+
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -15,9 +15,7 @@
             <li class="nav-item">
                 <a class="nav-link" href="/account/reg">Регистрация</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#">Disabled</a>
-            </li>
+
 
         </ul>
         <form class="form-inline my-2 my-lg-0">
